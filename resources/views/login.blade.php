@@ -52,7 +52,6 @@
               </div>
               <div align="center">
 
-              a
               <br>
              	<input type="submit" class="btn btn-default submit" value="Login">
         <!--         <a class="btn btn-default submit" href="index.html">Log in</a> -->
